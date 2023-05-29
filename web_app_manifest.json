@@ -27,12 +27,5 @@
       "title": "Feed The Monster Hindi",
       "appUrl": "https://feedthemonsterdev.curiouscontent.org/?cr_lang=hindi",
       "language": "Hindi"
-    },
-    {
-      "appId": 4,
-      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_arabic_dev.png",
-      "title": "Feed The Monster US English",
-      "appUrl": "https://feedthemonsterdev.curiouscontent.org/?cr_lang=arabic",
-      "language": "Arabic"
     }
 ]
